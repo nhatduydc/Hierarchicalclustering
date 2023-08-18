@@ -1,0 +1,5 @@
+1. Gắn file data_shop lên google drive(để tên theo mặc định "data_shop", nếu thay đổi sẽ phải thay đổi tên trong code nữa :))-)
+2. Chạy file Nhom10.ipynb, thực hiện chạy từng dòng dữ liệu trên visual studio hoặc google colab
+--> Kết quả sẽ cho thấy được khi chạy từng đoạn code.
+# File .py và file .ipynb từ colab download về khi làm xong
+https://colab.research.google.com/drive/19S_WFjN0KgB-q8XEAaHw_NQZTYg3aGHV?usp=sharing(Viewer)
